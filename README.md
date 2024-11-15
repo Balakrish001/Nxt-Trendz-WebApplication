@@ -1,4 +1,5 @@
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts I have learned till now.
+**Live :** https://BalasNxtTrendz.ccbp.tech       Username : rahul | Password : rahul@2021
 
 ### Refer to the video below:
 
@@ -69,10 +70,10 @@ The app must have the following functionalities
   - Feature 6
 
     - Add a `Payment Popup` feature to the application. A Popup should be displayed when a user clicks the `Checkout` button from the cart page.
-  - The Popup should include fields for the user to select one of the payment methods like Card, Net Banking, UPI, Wallet, and Cash on Delivery. Ensure all the options, except for Cash on Delivery, are disabled.
-  - The Popup should also include a summary, which displays the number of items and the total price the user will pay.
-  - The Popup should also have a `Confirm Order` button. If the `Cash on Delivery` payment option is not selected, the `Confirm Order` button must be disabled.
-  - Clicking this button will display a success message stating **"Your order has been placed successfully"**.
+    - The Popup should include fields for the user to select one of the payment methods like Card, Net Banking, UPI, Wallet, and Cash on Delivery. Ensure all the options, except for Cash on Delivery, are disabled.
+    - The Popup should also include a summary, which displays the number of items and the total price the user will pay.
+    - The Popup should also have a `Confirm Order` button. If the `Cash on Delivery` payment option is not selected, the `Confirm Order` button must be disabled.
+    - Clicking this button will display a success message stating **"Your order has been placed successfully"**.
 - Ensure your application maintains good CSS styling.
 
 - The `CartContext` has an object as a value with the following properties
